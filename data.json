@@ -1,0 +1,5 @@
+[
+    {"nombre": "Hacer la tarea de matemáticas", "id": 1, "realizado": false, "eliminado": false},
+    {"nombre": "Lavar la ropa", "id": 2, "realizado": true, "eliminado": false},
+    {"nombre": "Comprar alimentos", "id": 3, "realizado": false, "eliminado": true}
+]
